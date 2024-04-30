@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+    {
+        "datatype": "anat",
+        "suffix": "T1w",
+        "criteria": {
+          "SeriesDescription": "SAG_3D_T1_ACCELERATED"
+        }
+    },
+    {
+        "datatype": "dti",
+        "suffix": "dti",
+        "criteria": {
+            "SeriesDescription": "DTI_OPT_112_MB2"
+        }
+      }
+    ]
+  }
