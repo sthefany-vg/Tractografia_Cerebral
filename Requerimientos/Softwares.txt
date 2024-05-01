@@ -1,0 +1,23 @@
+Name: Python
+Version: 3.11.5
+
+Libraries:
+
+Name: dipy
+Version: 1.9.0
+Summary: Diffusion MRI Imaging in Python
+Home-page: https://dipy.org
+
+Name: nibabel
+Version: 5.2.0
+Summary: Access a multitude of neuroimaging data formats
+
+Name: numpy
+Version: 1.26.4
+Summary: Fundamental package for array computing in Python
+Home-page: https://numpy.org
+
+Name: matplotlib
+Version: 3.8.3
+Summary: Python plotting package
+Home-page: https://matplotlib.org
